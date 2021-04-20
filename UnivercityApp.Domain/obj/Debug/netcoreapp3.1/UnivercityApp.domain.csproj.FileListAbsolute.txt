@@ -1,0 +1,9 @@
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\bin\Debug\netcoreapp3.1\UnivercityApp.domain.deps.json
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\bin\Debug\netcoreapp3.1\UnivercityApp.domain.dll
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\bin\Debug\netcoreapp3.1\UnivercityApp.domain.pdb
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\obj\Debug\netcoreapp3.1\UnivercityApp.domain.csprojAssemblyReference.cache
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\obj\Debug\netcoreapp3.1\UnivercityApp.domain.AssemblyInfoInputs.cache
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\obj\Debug\netcoreapp3.1\UnivercityApp.domain.AssemblyInfo.cs
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\obj\Debug\netcoreapp3.1\UnivercityApp.domain.csproj.CoreCompileInputs.cache
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\obj\Debug\netcoreapp3.1\UnivercityApp.domain.dll
+D:\ITI\ASP.NET\Univercity\UnivercityApp.Domain\obj\Debug\netcoreapp3.1\UnivercityApp.domain.pdb
